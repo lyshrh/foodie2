@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  color: rgb(255, 255, 255);
+
+
+
+}
+h1{
+  font-size: 100px;
+  color: rgb(1, 1, 1);
+  text-align: center;
+  font-family: inherit;
+
+}
+h2{
+  color: rgb(255, 255, 255)
+}
+
+div.alert-warning {
+  color: rgb(255,255,255);
+  background-color: rgb(254, 161, 1);
+}
+ul {
+ padding: 10px;
+ background: rgb(254, 161, 1);
+}
+li {
+  display: inline;
+  padding: 0px, 10px, 0px, 10px;
+}
+a.nav-link {
+  color: #FFFFFF;
+}
+a.btn.btn-secondary.btn-lg.active{
+  color: rgb(255, 255, 255);
+  background-color: rgb(254, 161, 1);
+  font-size: 1em;
+}
+button#dropdownMenuButton.btn.btn-secondary.dropdown-toggle {
+  background-color: rgb(254, 161, 1);
+}
+a.nav-link.active {
+  color: rgb(255, 255, 255);
+  background: rgb(254, 161, 1);
+}
+div.contrast {
+  background-color: rgb(0,0,0);
+color: rgb(255,255,255);
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+div.col-5 {
+  justify-content: flex-start;
+  font-family: arial;
+  font-size: 20px;
+  margin: 10px;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  justify-content: center;
+}
